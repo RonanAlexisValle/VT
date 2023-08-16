@@ -1,0 +1,51 @@
+[16-Aug-2023 02:46:56 UTC] PHP Warning:  Undefined variable $options in C:\Users\Client\Local Sites\ronanalexis\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[16-Aug-2023 02:46:56 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Client\Local Sites\ronanalexis\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[16-Aug-2023 02:46:56 UTC] PHP Warning:  Undefined variable $options in C:\Users\Client\Local Sites\ronanalexis\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[16-Aug-2023 02:46:56 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Client\Local Sites\ronanalexis\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[16-Aug-2023 02:46:56 UTC] PHP Warning:  Undefined variable $options in C:\Users\Client\Local Sites\ronanalexis\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[16-Aug-2023 02:46:56 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Client\Local Sites\ronanalexis\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[16-Aug-2023 02:47:26 UTC] PHP Warning:  Undefined variable $options in C:\Users\Client\Local Sites\ronanalexis\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[16-Aug-2023 02:47:26 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Client\Local Sites\ronanalexis\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[16-Aug-2023 02:47:26 UTC] PHP Warning:  Undefined variable $options in C:\Users\Client\Local Sites\ronanalexis\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[16-Aug-2023 02:47:26 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Client\Local Sites\ronanalexis\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[16-Aug-2023 02:47:26 UTC] PHP Warning:  Undefined variable $options in C:\Users\Client\Local Sites\ronanalexis\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[16-Aug-2023 02:47:26 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Client\Local Sites\ronanalexis\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[16-Aug-2023 04:22:32 UTC] Sync process for Gutenberg Blocks has started.
+[16-Aug-2023 04:22:32 UTC] CATEGORY:Importing categories..
+[16-Aug-2023 04:22:33 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[16-Aug-2023 04:22:33 UTC] CATEGORY:Completed category import.
+[16-Aug-2023 04:22:33 UTC] BLOCK: Getting Total Blocks
+[16-Aug-2023 04:22:33 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[16-Aug-2023 04:22:33 UTC] BLOCK: Requests count 4
+[16-Aug-2023 04:22:33 UTC] BLOCK: Importing request 1 ..
+[16-Aug-2023 04:22:33 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[16-Aug-2023 04:22:34 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[16-Aug-2023 04:22:34 UTC] BLOCK: Completed request 1
+[16-Aug-2023 04:22:34 UTC] BLOCK: Importing request 2 ..
+[16-Aug-2023 04:22:34 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[16-Aug-2023 04:22:34 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[16-Aug-2023 04:22:34 UTC] BLOCK: Completed request 2
+[16-Aug-2023 04:22:34 UTC] BLOCK: Importing request 3 ..
+[16-Aug-2023 04:22:34 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[16-Aug-2023 04:22:34 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[16-Aug-2023 04:22:34 UTC] BLOCK: Completed request 3
+[16-Aug-2023 04:22:34 UTC] BLOCK: Importing request 4 ..
+[16-Aug-2023 04:22:34 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[16-Aug-2023 04:22:35 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[16-Aug-2023 04:22:35 UTC] BLOCK: Completed request 4
+[16-Aug-2023 04:22:35 UTC] SITE: Getting Total Sites
+[16-Aug-2023 04:22:35 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[16-Aug-2023 04:22:35 UTC] SITE: Request count 2
+[16-Aug-2023 04:22:35 UTC] SITE: Importing request 1 ..
+[16-Aug-2023 04:22:35 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[16-Aug-2023 04:22:35 UTC] SITE: Storing in option ast-block-templates-sites-1
+[16-Aug-2023 04:22:35 UTC] SITE: Completed request 1
+[16-Aug-2023 04:22:35 UTC] SITE: Importing request 2 ..
+[16-Aug-2023 04:22:35 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[16-Aug-2023 04:22:36 UTC] SITE: Storing in option ast-block-templates-sites-2
+[16-Aug-2023 04:22:36 UTC] SITE: Completed request 2
+[16-Aug-2023 04:22:36 UTC] Sync process for Gutenberg Blocks is done.
+[16-Aug-2023 05:47:22 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[16-Aug-2023 06:16:27 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[16-Aug-2023 06:26:30 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[16-Aug-2023 07:00:41 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
